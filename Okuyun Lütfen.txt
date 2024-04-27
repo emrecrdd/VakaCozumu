@@ -1,0 +1,12 @@
+
+	Vaka için HTML 5, CSS 3 , BOOTSTRAP VE JAVASCRIPT kullandım.
+	Ve kod kaynaklarını görmeniz için dosya adlarına tıklamanız yeterlidir.		
+		Örnek: 
+		html kodları için index.html, css kodları için style.css, js kodları için app.js
+		dosyasına tıklamanız yeterlidir ve tüm kodların açıklamalarını, ne iş yaptığını kod satırları ile ayrıntılı ve detaylı olarak belirttim.
+
+	Aynı şekilde internet ortamında da yayınladım. Tıklayarak https://bilardo.netlify.app/ bakabilirsiniz.
+	Elimden bu kadar geldi, bilikte iha geliştirmeyi hedeflediğim birkaç arkadaşım ile yaptık. Çok düşündüm araştırdım kaynak okudum, bilgi ve tecrübe 
+	sahibi oldugum Javascript ile yapmaya karar verdim. 
+	Ama kendimizi sürekli geliştiriyoruz, böyle bir deneyim yaşattığınız için teşekkür ederim.
+	Emre Cırdı
